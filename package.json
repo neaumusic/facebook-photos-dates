@@ -1,0 +1,10 @@
+{
+  "name": "facebook-exif-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "neaumusic <jsw.james.wilson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-exiftool": "^2.3.0"
+  }
+}
