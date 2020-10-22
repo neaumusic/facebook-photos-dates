@@ -5,6 +5,8 @@
   "author": "neaumusic <jsw.james.wilson@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "node-exiftool": "^2.3.0"
+    "moment": "^2.29.1",
+    "node-exiftool": "^2.3.0",
+    "utimes": "^4.0.2"
   }
 }
